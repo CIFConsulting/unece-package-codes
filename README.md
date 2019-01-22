@@ -2,7 +2,7 @@ Coded representations of the package type names used in International Trade (UNE
 
 ## Data
 
-Source of information is from the UNECE website: http://www.unece.org/tradewelcome/areas-of-work/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-21-to-24.html
+Source of information is from the UNECE website: http://www.unece.org/ro/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/code-list-recommendations.html
 
 All data from UNECE has to be available in an easily distributable format, in this case it is an .xls file to process I simply removed any lines with a status of 'X' and removed the numeric code column as it's of little useable value
 
